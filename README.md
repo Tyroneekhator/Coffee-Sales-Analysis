@@ -17,6 +17,7 @@ This project aimed to get ad-hoc insights from the CSV file which contains all t
 ### Data sources used
 ---
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
+The original file is stored in the zip.
 ### Tools used
 ---
 - Excel: A spreadsheet software.
