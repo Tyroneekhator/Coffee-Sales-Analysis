@@ -11,6 +11,8 @@
 ## Project Overview
 This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
 ## Dashboard
+![Coffee shop sales dashbaord](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/420ba806-4f8b-4215-9bfa-f6f708ddf111)
+
 
 ### Data sources used
 ---
