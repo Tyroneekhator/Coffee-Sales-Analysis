@@ -1,7 +1,13 @@
 # Coffee-Sales-Analysis
+# Table of Contents
+-[Project Overview](#project-overview)
 
 # Project overview
 This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
+## Data sources used
+The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
+## Tools used
+- Excel: A spreadsheet software.
 ## Glossary
 - Sales: This refers to any transactions where money or value is exchanged for the ownership of a good or service.
 - Footfall: These are the number of people entering a shop in a given time.
