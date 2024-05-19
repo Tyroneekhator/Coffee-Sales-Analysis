@@ -10,6 +10,8 @@
 
 ## Project Overview
 This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
+## Dashboard
+
 ### Data sources used
 ---
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
