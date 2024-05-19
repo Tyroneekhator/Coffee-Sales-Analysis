@@ -1,17 +1,27 @@
 # Coffee-Sales-Analysis
-# Table of Contents
--[Project Overview](#project-overview)
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Data sources used](#data-sources-used)
+- [Glossary](#glossary)
+- [Stakeholder questions](#stakeholder-questions)
+- [Data Cleaning and Preparation Processes](#data-cleaning-and-preparation-processes)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
 
-# Project overview
+## Project Overview
 This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
-## Data sources used
+### Data sources used
+---
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
-## Tools used
+### Tools used
+---
 - Excel: A spreadsheet software.
-## Glossary
+### Glossary
+---
 - Sales: This refers to any transactions where money or value is exchanged for the ownership of a good or service.
 - Footfall: These are the number of people entering a shop in a given time.
-## Stakeholder questions
+### Stakeholder questions
+---
 1. How do sales vary by day of the
 week and hour of the day?
 2. Are there any peak times for sales
@@ -26,15 +36,18 @@ per person
 revenue?
 7. How do sales vary by product
 category and type?
-## Data Cleaning/ Preparation Processes
+### Data Cleaning and Preparation Processes
+---
 - Checked for null values
 - Feature engineering  functions include:
 - - TEXT: Used to extract day and month from the transaction date column
   - HOUR: To get the hour from the transaction time column
   - Formula for revenue = transaction_qty * Unit_price
-## Exploratory Data Analysis
+### Exploratory Data Analysis
+---
 This was done with the use of pivot tables and charts 
-## Insights gotten from the analysis(all information is on the dashboard)
+### Insights gotten from the analysis
+---
 1. From the analysis one understands that the  most profitable day is on Monday(typically because that is the start of the week) and Saturday bringing in the least sales and footfall numbers(i.e. customers).
 2. The data shows us that across all stores businesses start getting busy at 8:00 am and get the busiest by 10:00 am. So to get more sales the coffee shop can advertise the "Barista Espresso" (the most purchased product) primarily sold from 8 am to 10 am to encourage customers to  come back during the stated time consistently with also the staff having the beverage produced at excess.
 3. The monthly revenue visualisation explains to stakeholders that most revenue is gotten in June and least in February with a possible steady increase after June throughout the year.
