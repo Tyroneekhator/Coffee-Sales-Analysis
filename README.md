@@ -3,6 +3,7 @@
 - [Glossary](#glossary)
 - [Project Overview](#project-overview)
 - [Data sources used](#data-sources-used)
+- [Dataset Columns](#dataset-columns)
 - [Data Cleaning and Preparation Processes](#data-cleaning-and-preparation-processes)
 - [Stakeholder questions](#stakeholder-questions)
 - [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
@@ -20,6 +21,8 @@ This project aimed to get ad-hoc insights from the CSV file which contains all t
 ## Data sources used
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
 The original file is stored in the zip.
+## Dataset Columns
+- 
 ## Tools used
 - Excel: A spreadsheet software.
 ## Data Cleaning and Preparation Processes
