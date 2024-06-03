@@ -47,7 +47,6 @@ revenue?
 category and type?
 
 ## Insights gotten from the analysis
----
 1. From the analysis one understands that the  most profitable day is on Monday(typically because that is the start of the week) and Saturday bringing in the least sales and footfall numbers(i.e. customers). 
 2. The data shows us that across all stores businesses start getting busy at 8:00 am and get the busiest by 10:00 am. So to get more sales the coffee shop can advertise the "Barista Espresso" (the most purchased product) primarily sold from 8 am to 10 am to encourage customers to  come back during the stated time consistently with also the staff having the beverage produced at excess.
 3. The monthly revenue visualisation explains to stakeholders that most revenue is gotten in June and least in February with a possible steady increase after June throughout the year.
