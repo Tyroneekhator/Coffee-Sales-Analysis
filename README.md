@@ -1,8 +1,8 @@
 # Coffee-Sales-Analysis
 ## Table of Contents
+- [Glossary](#glossary)
 - [Project Overview](#project-overview)
 - [Data sources used](#data-sources-used)
-- [Glossary](#glossary)
 - [Stakeholder questions](#stakeholder-questions)
 - [Data Cleaning and Preparation Processes](#data-cleaning-and-preparation-processes)
 - [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
