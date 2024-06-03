@@ -5,7 +5,6 @@
 - [Glossary](#glossary)
 - [Stakeholder questions](#stakeholder-questions)
 - [Data Cleaning and Preparation Processes](#data-cleaning-and-preparation-processes)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
 
 ## Glossary
