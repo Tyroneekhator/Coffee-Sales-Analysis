@@ -22,21 +22,21 @@ This project aimed to get ad-hoc insights from the CSV file which contains all t
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
 The original file is stored in the zip.
 ## Dataset Columns
-- Transaction_id
-- Transaction_date
-- Transaction_time
-- Transaction_qty
-- Store_id
-- Store_location
-- Product_id
-- Unit_price
-- Product_category
-- Product_type
-- Product_detail
-- Day
-- Month
-- Hour
-- Total_bill(revenue)
+- Transaction_id: the unique identifier of purchase made.
+- Transaction_date: the date of the purchase.
+- Transaction_time: the time the product was bought.
+- Transaction_qty: number of items bought.
+- Store_id: The distinct code of each store.
+- Store_location: the location store of where the transaction was made.
+- Product_id: the unique code for identifying each product.
+- Unit_price: the price of one item.
+- Product_category: the category of the product.
+- Product_type: the type of product.
+- Product_detail: the name of the product.
+- Day: the day of the week the item was bought.
+- Month: the month of the year the item was bought.
+- Hour: the hour of the day the item was bought.
+- Total_bill(revenue): the total bill for each transaction which serves as our revenue.
 ## Tools used
 - Excel: A spreadsheet software.
 ## Data Cleaning and Preparation Processes
