@@ -64,7 +64,7 @@ revenue?
 category and type?
 
 ## Insights gotten from the analysis
-1. From the analysis one understands that the  most profitable day is on Monday(typically because that is the start of the week) and Saturday bringing in the least sales and footfall numbers(i.e. customers).<br /><br />![total sales and footfall by day of the week](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/069cea9f-38a7-49ad-8e7b-241780b529ec)
+1. From the analysis one understands that the  most profitable day is on Thursday and Saturday bringing in the least sales and footfall numbers(i.e. customers).<br /><br />![total sales and footfall by day of the week](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/069cea9f-38a7-49ad-8e7b-241780b529ec)
 
 2. The data shows us that across all stores businesses start getting busy at 8:00 am and get the busiest by 10:00 am. So to get more sales the coffee shop can advertise the "Barista Espresso" (the most purchased product) primarily sold from 8 am to 10 am to encourage customers to  come back during the stated time consistently with also the staff having the beverage produced at excess.<br /><br />![hourly trend of orders placed by customers](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/eb861faa-c015-4e9b-829c-3325c15cc229)
 
