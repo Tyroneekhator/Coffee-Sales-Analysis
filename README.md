@@ -7,6 +7,7 @@
 - [Data Cleaning and Preparation Processes](#data-cleaning-and-preparation-processes)
 - [Stakeholder questions](#stakeholder-questions)
 - [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
+- [Recommendations based on the analysis](#recommendations-based-on-the-analysis)
 
 ## Glossary
 - Sales: This refers to any transactions where money or value is exchanged for the ownership of a good or service.
@@ -82,7 +83,10 @@ category and type?
    - Gourment Brewed coffee(£70,034.60)
    - Brewed Black Tea(£47,932.00)
    <br /><br /> ![top selling products](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/e12a56fc-bc53-46d9-ac95-3057ef938d65)
-8. The pie chart shows the most sold categories are Coffee and Tea. Likewise, this relates to the previous question with Barista expresso and Brewed chai tea being the first and second most sold products respectively.<br /><br />![Categories % distribution based on sales](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/9a5a28cf-d426-4254-b002-01eeabfa977d)
+8. The pie chart shows the most sold categories are Coffee and Tea. Likewise, this relates to the previous question with Barista Expresso and Brewed chai tea being the first and second most sold products respectively.<br /><br />![Categories % distribution based on sales](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/9a5a28cf-d426-4254-b002-01eeabfa977d)
+
+## Recommendations based on the analysis
+Based on the exploratory data analysis done previously one can recommend putting out the best-selling products as well its related items that come from its categories at the time (9 am to 10 am) when the business has the most footfall.
 
 
   
