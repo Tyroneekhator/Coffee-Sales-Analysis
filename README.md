@@ -22,7 +22,21 @@ This project aimed to get ad-hoc insights from the CSV file which contains all t
 The data set used was the coffee shop sales.csv file with the finished product saved as a workbook.
 The original file is stored in the zip.
 ## Dataset Columns
-- 
+- Transaction_id
+- Transaction_date
+- Transaction_time
+- Transaction_qty
+- Store_id
+- Store_location
+- Product_id
+- Unit_price
+- Product_category
+- Product_type
+- Product_detail
+- Day
+- Month
+- Hour
+- Total_bill(revenue)
 ## Tools used
 - Excel: A spreadsheet software.
 ## Data Cleaning and Preparation Processes
