@@ -12,7 +12,7 @@
 - Sales: This refers to any transactions where money or value is exchanged for the ownership of a good or service.
 - Footfall: These are the number of people entering a shop in a given time.
 ## Project Overview
-This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
+This project aimed to get ad-hoc insights from the CSV file which contains all the transactions of different customers of the "Coffee Shop Sales" chain in America. This was done by cleaning and transforming the data via feature engineering using functions and formulas to answer stakeholder questions and improve business performance.
 ## Dashboard
 ![Coffee Shop Sales](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/f349faf4-93a6-48dd-920e-513f40fae9a7)
 
