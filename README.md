@@ -82,7 +82,7 @@ category and type?
    - Gourment Brewed coffee(£70,034.60)
    - Brewed Black Tea(£47,932.00)
    <br /><br /> ![top selling products](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/e12a56fc-bc53-46d9-ac95-3057ef938d65)
-8. The pie chart shows the most sold categories are Coffee and Tea. Likewise, this relates to the previous question with expresso and chai tea being the first and second most sold products respectively.<br /><br />![Categories % distribution based on sales](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/9a5a28cf-d426-4254-b002-01eeabfa977d)
+8. The pie chart shows the most sold categories are Coffee and Tea. Likewise, this relates to the previous question with Barista expresso and Brewed chai tea being the first and second most sold products respectively.<br /><br />![Categories % distribution based on sales](https://github.com/Tyroneekhator/Coffee-Sales-Analysis/assets/72547969/9a5a28cf-d426-4254-b002-01eeabfa977d)
 
 
   
